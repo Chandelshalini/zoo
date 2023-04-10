@@ -1,0 +1,23 @@
+.body-content {
+    position: relative;
+    text-align: center;
+    color: white;
+    opacity: 0.7;
+  }
+  .sub-content{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 1;
+    
+  }
+  .h1{
+    color:black;
+    
+
+  }
+  .h3{
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+  }
